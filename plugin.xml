@@ -53,7 +53,7 @@
         <source-file src="other/DynatraceCordovaPlugin.m"/>
     </platform>
 	<platform name="android">
-        <framework src="com.dynatrace.agent:agent-android:8.259.1.1008" />
+        <framework src="com.dynatrace.agent:agent-android:8.257.1.1008" />
 		<source-file src="other/DynatraceCordovaPlugin.java" target-dir="src/com/dynatrace/cordova/plugin" />
 	
 		<config-file target="config.xml" parent="/*">
